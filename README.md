@@ -9,11 +9,6 @@ code that undergoes rigorous testing, achieving 100% test coverage. Additionally
 implementing software engineerings life cycles, such as Agile Development Methodology, SCRUM, and Extreme
 Programming, has consistently enhanced software quality and amplified team productivity.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-e-mustafa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-natiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohd-e-mustafa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Popular Repository
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohd-e-mustafa&repo=okta)](https://github.com/mohd-e-mustafa/okta)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-natiq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
